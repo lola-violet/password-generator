@@ -1,17 +1,27 @@
 # password-generator
 UWBC HW#3 - JavaScript Password Generator
 
-## User Story
+<br></br>
 
-As a user, I want to generate a random password. 
-When I click the button, I'm presented with a prompt and 4 confirm options to choose the length & character types of my password. 
+## Deployed Application
+[password-generator](https://lola-violet.github.io/password-generator/)
 
+<br></br>
 
-## My failures
+## Description
+A web application that generates a random password based on user choice parameters. 
 
-The code creates an array with the user's choices, but unfortunately I was unable to create the for loop that pulls a random character out of the array. I tried various methods for at least 3 hours, but I couldn't figure it out. 
+<br></br>
 
-I tried my hardest, and I will resubmit if necessary.
+## Usage
+To use, click the "Generate Password" button & follow the prompts to set parameters for length & character type. 
 
-Here is the link to my deployed site: 
-https://lola-violet.github.io/password-generator/
+<br></br>
+
+![start-page](/images/start-page.png)
+
+![length-prompt](/images/length-prompt.png)
+
+![character-confirms](/images/character-confirms.png)
+
+![completed-password](/images/completed-password.png)
